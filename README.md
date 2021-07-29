@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @nofalfayyaz
 - 👀 I’m interested in learning new stuff.
-- 🌱 I’m currently learning graphql
-- 💞️ I’m looking to collaborate on block chain technologies.
 - 📫 You can reach me through my email fayyaznofal@gmail.com
 
 <!---
